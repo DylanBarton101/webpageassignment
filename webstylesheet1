@@ -1,0 +1,10 @@
+Body {
+background-color: grey;
+}
+
+h1 {
+border: 7px solid #1A1A1A;
+padding: 20px;
+text-align: center;
+background-color: lightblue;
+}
