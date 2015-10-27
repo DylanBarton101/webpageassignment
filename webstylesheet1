@@ -1,10 +1,41 @@
+html,body,{
+padding: 0px;
+margin: 0px;
+}
+
+
 Body {
+
 background-color: grey;
 }
 
 h1 {
+margin: 0px;
 border: 7px solid #1A1A1A;
 padding: 20px;
 text-align: center;
 background-color: lightblue;
+}
+
+#sidebar{
+position: relative;
+padding: 20px;
+background-color: red;
+width: 21%;
+border: 5px solid black;
+}
+
+#menu{
+position:relative;
+background-color: lightgrey;
+border: 5px solid black;
+min-height: 3em;
+}
+
+.buttons {
+
+  min-height: 3em;
+  border: 5px solid black;
+  width: 24.2%;
+  float: left;
 }
