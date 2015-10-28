@@ -21,7 +21,7 @@ background-color: lightblue;
 position: relative;
 padding: 20px;
 background-color: red;
-width: 21%;
+width: 21.5%;
 border: 5px solid black;
 }
 
