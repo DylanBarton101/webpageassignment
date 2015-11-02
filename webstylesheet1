@@ -11,7 +11,7 @@ background-color: grey;
 
 h1 {
 margin: 0px;
-border: 7px solid #1A1A1A;
+border: 5px solid #1A1A1A;
 padding: 20px;
 text-align: center;
 background-color: lightblue;
@@ -22,20 +22,22 @@ position: relative;
 padding: 20px;
 background-color: red;
 width: 21.5%;
-border: 5px solid black;
+border: 3px solid black;
 }
 
 #menu{
 position:relative;
 background-color: lightgrey;
-border: 5px solid black;
+border: 3px solid black;
 min-height: 3em;
 }
 
 .buttons {
-
-  min-height: 3em;
-  border: 5px solid black;
-  width: 24.2%;
+  padding-top: 1em;
+text-align: center;
+vertical-align: text-top;
+  min-height: 2em;
+  border: 3px solid black;
+  width: 24.5%;
   float: left;
 }
